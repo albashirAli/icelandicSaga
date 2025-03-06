@@ -60,11 +60,10 @@ export default function Conclusion() {
           <div className="card flex flex-col">
             <h2 className="flex items-center">
               <FileDown className="mr-2 text-amber-400" size={24} />
-              Download Full Research Paper
+              Download The Full Saga!
             </h2>
             <p className="mb-6">
-              Download our complete research paper on Icelandic sagas, including detailed analysis, additional case
-              studies, and comprehensive references.
+              Download the saga!
             </p>
             <div className="mt-auto">
               <Link
@@ -74,7 +73,7 @@ export default function Conclusion() {
                 <FileDown className="mr-2" size={18} />
                 Download PDF (2.4 MB)
               </Link>
-              <p className="text-xs text-stone-400 mt-2 text-center">PDF format • Last updated March 2025</p>
+              <p className="text-xs text-stone-400 mt-2 text-center">PDF format</p>
             </div>
           </div>
 
@@ -89,11 +88,11 @@ export default function Conclusion() {
             </p>
             <p className="mb-6">
               You don't need to know what "GitHub" is - just click the button below if you want to see how this website
-              was made or want to use it as a template for your own project.
+              was made. Thanks Loved the Class!
             </p>
             <div className="mt-auto">
               <Link
-                href="https://github.com/yourusername/why-is-your-axe-bloody"
+                href="https://github.com/albashirAli/icelandicSaga"
                 target="_blank"
                 className="inline-flex items-center justify-center w-full py-3 px-4 border border-amber-500 text-amber-400 hover:bg-amber-500/10 rounded-md transition-colors"
               >

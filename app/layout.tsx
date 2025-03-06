@@ -2,7 +2,7 @@ import type React from "react"
 import type { Metadata } from "next"
 import { Cinzel } from "next/font/google"
 import "./globals.css"
-import Navbar from "@/components/navbar"
+import Navbar from "../components/navbar"
 
 const cinzel = Cinzel({
   subsets: ["latin"],
