@@ -45,7 +45,7 @@ export default function CaseStudies() {
             <div className="lg:w-1/3">
               <div className="relative w-full h-64 lg:h-full rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=600&width=400"
+                  src="/nj.png"
                   alt="Illustration depicting a scene from Njáls saga"
                   fill
                   className="object-cover"
@@ -60,7 +60,7 @@ export default function CaseStudies() {
             <div className="lg:w-1/3 order-2 lg:order-1">
               <div className="relative w-full h-64 lg:h-full rounded-lg overflow-hidden">
                 <Image
-                  src="/placeholder.svg?height=600&width=400"
+                  src="/ice.png"
                   alt="Illustration depicting Grettir the Strong"
                   fill
                   className="object-cover"

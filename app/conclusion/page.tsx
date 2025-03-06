@@ -67,7 +67,7 @@ export default function Conclusion() {
             </p>
             <div className="mt-auto">
               <Link
-                href="/why-is-your-axe-bloody-research.pdf"
+                href="/AxeBlood.pdf"
                 className="inline-flex items-center justify-center w-full py-3 px-4 bg-amber-700 hover:bg-amber-600 text-stone-100 rounded-md transition-colors"
               >
                 <FileDown className="mr-2" size={18} />

@@ -13,7 +13,7 @@ export default function Home() {
         </p>
         <div className="relative w-full max-w-4xl h-64 md:h-96 mb-12">
           <Image
-            src="/placeholder.svg?height=500&width=1000"
+            src="/coldMountains.png"
             alt="Medieval Icelandic landscape with mountains and mist"
             fill
             className="object-cover rounded-lg shadow-2xl"
@@ -26,14 +26,11 @@ export default function Home() {
         <div className="card">
           <h2>About This Project</h2>
           <p>
-            The medieval Icelandic sagas represent one of the most remarkable bodies of literature from medieval Europe.
-            Written primarily in the 13th and 14th centuries, these narratives recount the lives, conflicts, and
-            societal structures of Iceland during the Viking Age (9th-11th centuries).
-          </p>
-          <p>
-            "Why is Your Axe Bloody?" explores the complex themes of justice, honor, and supernatural influence that
-            permeate these ancient texts. Through careful analysis of key sagas and their cultural context, this project
-            illuminates how medieval Icelanders understood concepts of law, morality, and retribution in their society.
+          William Ian Miller's “Why is Your Axe Bloody?” is a deep, personal reading of Njáls saga, exploring how this iconic Icelandic saga portrays violence, justice, honor, and the supernatural
+          . Miller highlights the saga's realistic and “tough-minded” analysis of blood-feud and law 
+          , showing that beneath the vivid storytelling lie pragmatic social insights. Below, we break down the work's key themes, 
+          case studies from the saga, and Miller's insights and reflections on how sagas handle violence and honor alongside legal 
+          and otherworldly dimensions.
           </p>
           <div className="flex justify-center mt-8">
             <Link
